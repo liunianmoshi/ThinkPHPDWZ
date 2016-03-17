@@ -1,0 +1,33 @@
+<div class="pageContent">
+    <form method="post" action="__MODULE__/Employee/Sava" class="pageForm required-validate" onsubmit="return validateCallback(this, dialogAjaxDone);">
+    <div class="pageFormContent" layouth="56">
+        <input type="hidden" name="ID" value="{$model.id}">
+        <p>
+            <label>权限角色：</label>
+            <select name="RoleID" class="combox" >
+                <option value="0">-请选择-</option>
+            </select>
+        </p>
+        <p>
+            <label>登陆账号：</label>
+            <input type="text" value="{$model.loginname}" name="LoginName" >
+        </p>
+        <p>
+            <label>姓名：</label>
+            <input type="text" value="{$model.username}" name="UserName" >
+        </p>
+        <p>
+            <label>是否启用：</label>
+            <input type="checkbox"  {$model[isuse] == 1?"checked='checked'":""} name="IsUse" value="1" />
+        </p>
+    </div>
+    <div class="formBar">
+        <ul>
+            <li><div class="buttonActive"><div class="buttonContent"><button type="submit">保存</button></div></div></li>
+            <li>
+                <div class="button"><div class="buttonContent"><button type="button" class="close">取消</button></div></div>
+            </li>
+        </ul>
+    </div>
+    </form>
+</div>

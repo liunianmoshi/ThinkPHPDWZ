@@ -1,0 +1,59 @@
+    <form ID="pagerForm" method="post" action="__MODULE__/Employee/Index">
+    <input type="hidden" name="employee_keyword" value="{$employee_keyword}" />
+    <input type="hidden" name="pageNum" value="{$pageList.pageNum}" />
+    <input type="hidden" name="numPerPage" value="{$pageList.pageSize}" />
+    </form>
+
+    <div class="pageHeader">
+        <form onsubmit="return navTabSearch(this);" action="__MODULE__/Employee/Index" method="post">
+        <div class="searchBar">
+            <table class="searchContent">
+                <tr>
+                    <td>
+                        登陆账号：<input type="text" name="employee_keyword" value="{$employee_keyword}" />
+                    </td>
+                    <td><div class="buttonActive"><div class="buttonContent"><button type="submit">查询</button></div></div></td>
+                </tr>
+            </table>
+        </div>
+        </form>
+    </div>
+    <div class="pageContent">
+        <div class="panelBar">
+            <ul class="toolBar">
+                <li><a class="add" href="__MODULE__/Employee/Edit" target="dialog" mask="true"><span>添加</span></a></li>
+                <li><a class="edit" href="__MODULE__/Employee/Edit?ID={ID}" target="dialog" mask="true"><span>修改</span></a></li>
+                <li><a class="delete" href="__MODULE__/Employee/Delete?ID={ID}" target="ajaxTodo" title="确定要删除吗?"><span>删除</span></a></li>
+                <li class="line">line</li>
+            </ul>
+        </div>
+        <table class="table" width="100%" layouth="112">
+            <thead>
+            <tr>
+                <th width="120" align="center">登陆账号</th>
+                <th width="100" align="center">姓名</th>
+                <th width="150" align="center">上次登陆IP</th>
+                <th width="80" align="center">登陆次数</th>
+                <th width="80" align="center">状态</th>
+                <th width="80" align="center">所属角色</th>
+                <th width="80" align="center">上次登陆时间</th>
+                <th width="80" align="center">创建时间</th>
+            </tr>
+            </thead>
+            <tbody>
+            <volist name="list" id="item">
+                <tr target="ID" rel="{$item.id}">
+                    <td>{$item.loginname}</td>
+                    <td>{$item.username}</td>
+                    <td>{$item.latestloginip}</td>
+                    <td>{$item.logintimes}</td>
+                    <td>{$item[isuse] == 1 ? "启用":"禁用"}</td>
+                    <td></td>
+                    <td>{$item.latestlogintime}</td>
+                    <td>{$item.createtime}</td>
+                </tr>
+            </volist>
+            </tbody>
+        </table>
+        {$htmlPage}
+    </div>

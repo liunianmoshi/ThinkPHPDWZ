@@ -1,0 +1,1671 @@
+[ 2015-08-21T00:02:51+08:00 ] ::1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440086571430
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014049s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2015-08-21T00:02:54+08:00 ] ::1 /admin.php/Admin/Employee/Edit?ID=3&_=1440086573920
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `think_employee` WHERE `ID` = 3 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2015-08-21T00:04:03+08:00 ] ::1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440086643468
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2015-08-21T00:04:06+08:00 ] ::1 /admin.php/Admin/Employee/Edit?_=1440086646561
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000310s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001087s ]
+
+[ 2015-08-21T00:04:13+08:00 ] ::1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001471s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `think_employee` WHERE `ID` = 0 LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 00:04:13','2015-08-21 00:04:13') [ RunTime:0.1058s ]
+
+[ 2015-08-21T00:04:13+08:00 ] ::1 /admin/Employee/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014329s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2015-08-21T00:04:47+08:00 ] ::1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440086687753
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009519s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2015-08-21T00:04:48+08:00 ] ::1 /admin.php/Admin/Employee/Edit?_=1440086688713
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005382s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000559s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013240s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2015-08-21T00:04:55+08:00 ] ::1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='%s' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`CreateTime`,`UpdateTime`) VALUES ('0','admin123','王晓元','2015-08-21 00:04:55','2015-08-21 00:04:55') [ RunTime:0.0421s ]
+
+[ 2015-08-21T00:04:55+08:00 ] ::1 /admin/Employee/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0202s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2015-08-21T00:06:03+08:00 ] ::1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440086763071
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011240s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2015-08-21T00:06:04+08:00 ] ::1 /admin.php/Admin/Employee/Edit?_=1440086764576
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2015-08-21T00:06:11+08:00 ] ::1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='%s' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`CreateTime`,`UpdateTime`) VALUES ('0','admin123','王晓元','2015-08-21 00:06:11','2015-08-21 00:06:11') [ RunTime:0.0418s ]
+
+[ 2015-08-21T00:06:48+08:00 ] ::1 /admin.php/Admin/Employee/Edit?_=1440086807936
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001678s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001120s ]
+
+[ 2015-08-21T00:08:16+08:00 ] ::1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440086896028
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2015-08-21T00:08:16+08:00 ] ::1 /admin.php/Admin/Employee/Edit?_=1440086896827
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2015-08-21T00:08:23+08:00 ] ::1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin123' ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2015-08-21T00:09:21+08:00 ] ::1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440086961068
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008747s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2015-08-21T00:09:22+08:00 ] ::1 /admin.php/Admin/Employee/Edit?_=1440086962027
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001049s ]
+
+[ 2015-08-21T00:09:26+08:00 ] ::1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001876s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 00:09:26','2015-08-21 00:09:26') [ RunTime:0.0425s ]
+
+[ 2015-08-21T00:09:26+08:00 ] ::1 /admin/Employee/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011326s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2015-08-21T00:09:29+08:00 ] ::1 /admin.php/Admin/Employee/Edit?_=1440086969406
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001092s ]
+
+[ 2015-08-21T00:09:33+08:00 ] ::1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2015-08-21T00:10:04+08:00 ] ::1 /admin.php/Admin/Employee/Edit?ID=1&_=1440087004661
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `think_employee` WHERE `ID` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2015-08-21T00:10:08+08:00 ] ::1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0096s ]
+SQL: UPDATE `think_employee` SET `LoginName`='admin1',`UserName`='王晓元',`IsUse`='1' WHERE `ID` = 1 [ RunTime:0.0362s ]
+
+[ 2015-08-21T00:10:08+08:00 ] ::1 /admin/Employee/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013502s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2015-08-21T00:10:11+08:00 ] ::1 /admin.php/Admin/Employee/Edit?ID=1&_=1440087011424
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `think_employee` WHERE `ID` = 1 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000941s ]
+
+[ 2015-08-21T00:10:14+08:00 ] ::1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0061s ]
+SQL: UPDATE `think_employee` SET `LoginName`='admin',`UserName`='王晓元',`IsUse`='1' WHERE `ID` = 1 [ RunTime:0.0516s ]
+
+[ 2015-08-21T00:10:14+08:00 ] ::1 /admin/Employee/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP Project\Web2015\8\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2015-08-21T00:10:30+08:00 ] ::1 /Admin/Home/@Url.Action(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 10 E:\PHP Project\Web2015\8\ThinkPHPDWZ\ThinkPHP\Library\Think\Dispatcher.class.php 第 127 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+ERR: 非法操作:@Url.Action(
+
+[ 2015-08-21T17:07:18+08:00 ] 127.0.0.1 /admin/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T17:07:23+08:00 ] 127.0.0.1 /admin/Employee/Index?_=1440148042591
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0350s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:07:27+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440148047309
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:07:42+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='liunianmoshi' ) LIMIT 1   [ RunTime:0.0370s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`CreateTime`,`UpdateTime`) VALUES ('0','liunianmoshi','王晓元','2015-08-21 17:07:42','2015-08-21 17:07:42') [ RunTime:0.0090s ]
+
+[ 2015-08-21T17:08:43+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440148122948
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T17:10:02+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440148202806
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:35:28+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440149728827
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-21T17:35:33+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440149733250
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:35:34+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440149734082
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:35:40+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 17:35:40','2015-08-21 17:35:40') [ RunTime:0.0040s ]
+
+[ 2015-08-21T17:42:39+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-21T17:42:46+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440150166561
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:42:58+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440150178416
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:43:03+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440150183412
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:43:09+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 17:43:09','2015-08-21 17:43:09') [ RunTime:0.0040s ]
+
+[ 2015-08-21T17:44:24+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440150264526
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T17:47:34+08:00 ] 127.0.0.1 /admin/ReturnResult.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:ReturnResult.php
+
+[ 2015-08-21T17:48:07+08:00 ] 127.0.0.1 /admin/Core/ReturnResult.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Core
+
+[ 2015-08-21T17:48:20+08:00 ] 127.0.0.1 /admin/Home/ReturnResult.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:ReturnResult.php
+
+[ 2015-08-21T17:48:32+08:00 ] 127.0.0.1 /admin/ReturnResult.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:ReturnResult.php
+
+[ 2015-08-21T17:50:39+08:00 ] 127.0.0.1 /admin/ReturnResult.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:ReturnResult.php
+
+[ 2015-08-21T17:50:50+08:00 ] 127.0.0.1 /admin/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T17:50:52+08:00 ] 127.0.0.1 /admin/Employee/Index?_=1440150652357
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-21T17:51:13+08:00 ] 127.0.0.1 /admin/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:51:15+08:00 ] 127.0.0.1 /admin/Employee/Index?_=1440150675730
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-21T17:51:17+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440150677500
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:51:40+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 17:51:40','2015-08-21 17:51:40') [ RunTime:0.0040s ]
+
+[ 2015-08-21T17:55:42+08:00 ] 127.0.0.1 /admin/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:55:44+08:00 ] 127.0.0.1 /admin/Employee/Index?_=1440150944305
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0750s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:55:58+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440150958263
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:55:59+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440150959430
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T17:56:07+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 17:56:07','2015-08-21 17:56:07') [ RunTime:0.0040s ]
+
+[ 2015-08-21T18:11:13+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440151873630
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include(ReturnResult.php): failed to open stream: No such file or directory E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+NOTIC: [2] include(): Failed opening 'ReturnResult.php' for inclusion (include_path='.;C:\php\pear') E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T18:11:15+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440151875159
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include(ReturnResult.php): failed to open stream: No such file or directory E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+NOTIC: [2] include(): Failed opening 'ReturnResult.php' for inclusion (include_path='.;C:\php\pear') E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:11:26+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440151886437
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2] include(ReturnResult.php): failed to open stream: No such file or directory E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+NOTIC: [2] include(): Failed opening 'ReturnResult.php' for inclusion (include_path='.;C:\php\pear') E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T18:11:32+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440151892713
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include(ReturnResult.php): failed to open stream: No such file or directory E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+NOTIC: [2] include(): Failed opening 'ReturnResult.php' for inclusion (include_path='.;C:\php\pear') E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:11:38+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include(ReturnResult.php): failed to open stream: No such file or directory E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+NOTIC: [2] include(): Failed opening 'ReturnResult.php' for inclusion (include_path='.;C:\php\pear') E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 18:11:38','2015-08-21 18:11:38') [ RunTime:0.0030s ]
+
+[ 2015-08-21T18:11:46+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440151906233
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] include(ReturnResult.php): failed to open stream: No such file or directory E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+NOTIC: [2] include(): Failed opening 'ReturnResult.php' for inclusion (include_path='.;C:\php\pear') E:\PHP_Project\ThinkPHPDWZ\Admin\Admin\Controller\EmployeeController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:16:02+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152162049
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T18:16:04+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440152164879
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-21T18:16:10+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 18:16:10','2015-08-21 18:16:10') [ RunTime:0.0050s ]
+
+[ 2015-08-21T18:19:19+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152359296
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:19:30+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152370136
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:19:31+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440152371499
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T18:19:36+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','2015-08-21 18:19:36','2015-08-21 18:19:36') [ RunTime:0.0040s ]
+
+[ 2015-08-21T18:19:42+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152382312
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:21:18+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152478880
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-21T18:21:21+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440152481136
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:21:25+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 18:21:25','2015-08-21 18:21:25') [ RunTime:0.0040s ]
+
+[ 2015-08-21T18:21:35+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152495083
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:21:43+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152503855
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:21:56+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152516802
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:21:58+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440152518012
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T18:22:03+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 18:22:03','2015-08-21 18:22:03') [ RunTime:0.0030s ]
+
+[ 2015-08-21T18:22:08+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152528466
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:22:18+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152538018
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:22:36+08:00 ] 127.0.0.1 /admin/Employee/Index?keyword=&pageNum=1&numPerPage=&_=1440152556553
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-21T18:22:37+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Edit?_=1440152557637
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\a5af269bef2e20d5a95b6965fce6a62a.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-08-21T18:22:42+08:00 ] 127.0.0.1 /admin.php/Admin/Employee/Sava
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `think_employee` WHERE ( LoginName='admin' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `think_employee` (`ID`,`LoginName`,`UserName`,`IsUse`,`CreateTime`,`UpdateTime`) VALUES ('0','admin','王晓元','1','2015-08-21 18:22:42','2015-08-21 18:22:42') [ RunTime:0.0040s ]
+
+[ 2015-08-21T18:22:42+08:00 ] 127.0.0.1 /admin/Employee/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_employee` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `think_employee`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant isuse - assumed 'isuse' E:\PHP_Project\ThinkPHPDWZ\Admin\Runtime\Cache\Admin\079b4597843e87c42b5da267ef496e77.php 第 50 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
